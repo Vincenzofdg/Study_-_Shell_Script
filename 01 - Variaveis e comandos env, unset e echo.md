@@ -37,16 +37,28 @@ Exercicio:
 11. Mostra o conteúdo da variável criada.
 
 Resolução:
+
 > teste='teste'
+
 > echo $teste
+
 > bash
+
 > ps
+
 > echo $teste
+
 > exit
+
 > ps
+
 > echo $teste
+
 > export teste
+
 > bash
+
 > ps
+
 > echo $teste
 
